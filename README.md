@@ -137,10 +137,10 @@
 </table>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puppypaduk2&hide=html&theme=light)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Akira&hide=html&theme=light)]
 
 </div>
-  <sub>Created by <a href="https://github.com/puppypaduk2/puppypaduk2" target="_blank">Lovely Sweet</a></sub>  
+  <sub>Created by <a href="https://github.com/Dev-Akira/Dev-Akira" target="_blank">Akira Yamamoto</a></sub>  
 </div>
 
 <div align="center">
@@ -148,5 +148,5 @@
 
 # 👯Trophy.
 
-<img src="https://github-profile-trophy.vercel.app/?username=puppypaduk2&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-Akira&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
 </div>
